@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/QFults/06-Day-04#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "mysql2": "^2.2.5"
   }
 }
