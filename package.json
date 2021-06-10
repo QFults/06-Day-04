@@ -1,0 +1,23 @@
+{
+  "name": "06-Day-04",
+  "version": "1.0.0",
+  "description": "- Node & MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/06-Day-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/06-Day-04/issues"
+  },
+  "homepage": "https://github.com/QFults/06-Day-04#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
+}
